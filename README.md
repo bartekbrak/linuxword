@@ -25,7 +25,7 @@ answer. Although, Arch wiki must have it, it has everything.
 
 # The list
 
-[LANGUAGE]
+**LANGUAGE**
 - https://superuser.com/a/392466/160379
 - https://www.gnu.org/software/gettext/manual/html_node/The-LANGUAGE-variable.html#The-LANGUAGE-variable
 
